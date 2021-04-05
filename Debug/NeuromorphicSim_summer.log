@@ -1,0 +1,8 @@
+﻿  main.cpp
+  neuron.cpp
+C:\Users\bluebear\Desktop\visual studio project\NeuromorphicSim_summer\NeuromorphicSim_summer\main.cpp(1,1): warning C4005:  '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\bluebear\Desktop\visual studio project\NeuromorphicSim_summer\NeuromorphicSim_summer\main.cpp(1,1): warning C4005: C:\Users\bluebear\Desktop\visual studio project\NeuromorphicSim_summer\NeuromorphicSim_summer\main.cpp: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+C:\Users\bluebear\Desktop\visual studio project\NeuromorphicSim_summer\NeuromorphicSim_summer\def.h(4,1): warning C4005:  '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\bluebear\Desktop\visual studio project\NeuromorphicSim_summer\NeuromorphicSim_summer\def.h(4,1): warning C4005: C:\Users\bluebear\Desktop\visual studio project\NeuromorphicSim_summer\NeuromorphicSim_summer\neuron.cpp: note: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  NeuromorphicSim_summer.vcxproj -> C:\Users\bluebear\Desktop\visual studio project\NeuromorphicSim_summer\Debug\NeuromorphicSim_summer.exe

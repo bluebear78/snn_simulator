@@ -1,0 +1,16 @@
+﻿  main.cpp
+  network.cpp
+  neuron.cpp
+  parser.cpp
+  pattern.cpp
+  simulator.cpp
+  synapse.cpp
+C:\Users\bluebear\Desktop\visual studio project\NeuromorphicSim_summer\NeuromorphicSim_summer\parser.cpp(26,6): warning C4101:  'i' :참조되지 않은 지역 변수입니다.
+C:\Users\bluebear\Desktop\visual studio project\NeuromorphicSim_summer\NeuromorphicSim_summer\synapse.cpp(155,19): warning C4244:  '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+C:\Users\bluebear\Desktop\visual studio project\NeuromorphicSim_summer\NeuromorphicSim_summer\network.cpp(289): warning C4715: 'Network::SearchForNeuron': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  28 of 356 functions ( 7.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  NeuromorphicSim_summer.vcxproj -> C:\Users\bluebear\Desktop\visual studio project\NeuromorphicSim_summer\Release\NeuromorphicSim_summer.exe
